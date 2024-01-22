@@ -3,7 +3,9 @@ On mitigating stability-plasticity dilemma in CLIP-guided image morphing via geo
 
 Paper : https://arxiv.org/pdf/2401.10526.pdf
 
-<img src = "https://github.com/oyt9306/geodesic-CLIP/assets/41467632/4a01f733-64b6-42ca-9722-14c8368e5a01" width="60%">
+<p align="center">
+    <img src = "https://github.com/oyt9306/geodesic-CLIP/assets/41467632/4a01f733-64b6-42ca-9722-14c8368e5a01" width="60%">
+</p>
 
 This repository provides the main loss code used for improved CLIP-guided image morphing.
 
