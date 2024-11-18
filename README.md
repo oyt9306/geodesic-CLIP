@@ -1,6 +1,7 @@
 # geodesic-CLIP
 On mitigating stability-plasticity dilemma in CLIP-guided image morphing via geodesic distillation loss
-Venue: International Journal of Computer Vison (IJCV), 2024
+
+Venue: International Journal of Computer Vision (IJCV), 2024
 
 Paper : https://arxiv.org/pdf/2401.10526.pdf
 
